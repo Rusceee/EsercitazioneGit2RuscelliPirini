@@ -1,3 +1,0 @@
-Working tree: è quello su cui sto mettendo le mani e modificando per esempio su visual studio, è tutto in locale caricato in ram quindi niente viene salvato se chiudo
-Staging area: è la repo locale del progetto, qui tutto viene salvato ed è pronto per essere caricato su GitHub oppure essere rimesso in working tree
-Repository: qua il codice è stato caricato su internet per esempio su GitHub ed è pronto per essere clonato modificato ripristinato ecc
